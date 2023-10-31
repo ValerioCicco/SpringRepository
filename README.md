@@ -68,4 +68,4 @@ Tasks:
 
 Obiettivo raggiunto: Ho creato un'applicazione per la gestione di una biblioteca municipale in cui ogni Membro può prenotare un libro.
 
-QUI ALLEGO LINK REPOSITORY PER ESERCIZI JAVA: "work in progress..."
+*** Link alla repository di Java-JDBC: https://github.com/ValerioCicco/Repo_Java-JDBC ***
